@@ -19,4 +19,4 @@ To perform the simulation experiments yourself cd into the computation directory
 
 	./submit_all -d my_experiments -b yes -s 52
     
-The notebook looks best when read in html or as the .ipynb a pdf has been provided for compatability. 
+The notebook looks best when read in html but a pdf file has been provided for compatability. 
