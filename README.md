@@ -1,6 +1,6 @@
 ## Handling missing data, censored values and measurement error in machine learning models using multiple imputation for early stage drug discovery
 
-This is the notebook for [STANCON 2019](https://mc-stan.org/events/stancon2019Cambridge/)
+This is a notebook for [STANCON 2019](https://mc-stan.org/events/stancon2019Cambridge/)
 
 Abstract is available [here.](https://mc-stan.org/events/stancon2019Cambridge/abstracts.html#19)
 
