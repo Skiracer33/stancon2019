@@ -17,6 +17,6 @@ To install the requirements for the notebook using conda on linux run:
 Precomputed simulation experiments are provided as pickled files.
 To perform the simulation experiments yourself cd into the computation directory and run
 
-	./submit_all -d my_experiments -b yes -s 52
+	./submit_all.sh -d my_experiments -b yes -s 52
     
 The notebook looks best when read in html but a pdf file has been provided for compatability. 
